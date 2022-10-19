@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 Some of my frontend projects are available at [nessi.dev](https://nessi.dev)
+<h1 align="center">PROJECTS</h1>
 <table>
   
   <tr>
