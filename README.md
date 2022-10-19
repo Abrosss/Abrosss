@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my frontend projects are available at [nessi.dev](https://nessi.dev)
+- 👨‍💻 Some of my frontend projects are available at [nessi.dev](https://nessi.dev)
 
 
 <h3 align="left">Languages and Tools:</h3>
