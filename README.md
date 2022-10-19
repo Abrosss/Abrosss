@@ -29,25 +29,7 @@
       </p>
         <p align="center">Build a subscription plan that best fits your needs. Customize your order frequency, quantity, even your roast style and grind type.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Coffee subscription website</h3>
-        <br />
- <p align="center"><strong>Javascript, Sass, Node.js & Express.js</strong></p>
-        <a target="_blank" href="http://travelara.herokuapp.com">
-            <img src="coffee.jpg" width="100%" alt="coffee app"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/Abrosss/coffee-shop" target="_blank">
- GITHUB
-  </a>  
-  <a href="http://coffee-sub.vercel.app/" target="_blank">
-  LIVE
-  </a>
-      </p>
-        <p align="center">Build a subscription plan that best fits your needs. Customize your order frequency, quantity, even your roast style and grind type.</p>
-    </td>
+    
   </tr>
   
 
