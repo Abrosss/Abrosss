@@ -34,7 +34,7 @@
         <br />
  <p align="center"><strong>Javascript, SCSS, API</strong></p>
         <a target="_blank" href="https://magic-url-shortener.netlify.app/">
-            <img src="url2.jpg" width="100%" alt="url-shortener"/>
+            <img src="url.jpg" width="100%" alt="url-shortener"/>
         </a>
         <br />
         <p align="center">
