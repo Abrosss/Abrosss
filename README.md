@@ -5,6 +5,92 @@
 
 - 🌱 I’m currently learning **React**
 
+<h1 align="center">PROJECTS</h1>
+<table>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Coffee Subscription Website</h3>
+        <br />
+ <p align="center"><strong>Javascript, SCSS, Node.js & Express.js</strong></p>
+        <a target="_blank" href="https://coffee-sub.vercel.app/">
+            <img src="coffee.jpg" width="100%" alt="coffee app"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Abrosss/coffee-shop" target="_blank">
+ GITHUB
+  </a>  
+  <a href="http://coffee-sub.vercel.app/" target="_blank">
+  LIVE
+  </a>
+      </p>
+        <p align="center">Build a subscription plan that best fits your needs. Customize your order frequency, quantity, even your roast style and grind type.</p>
+    </td>
+     <td width="50%" valign="top">
+      <h3 align="center">URL Shortener</h3>
+        <br />
+ <p align="center"><strong>Javascript, SCSS, API</strong></p>
+        <a target="_blank" href="https://magic-url-shortener.netlify.app/">
+            <img src="url2.jpg" width="100%" alt="url-shortener"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Abrosss/Url-shortening-app" target="_blank">
+ GITHUB
+  </a>  
+  <a href="https://magic-url-shortener.netlify.app/" target="_blank">
+  LIVE
+  </a>
+      </p>
+        <p align="center">Create shortened URLs</p>
+    </td>
+  </tr>
+    <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">IP Address Tracker</h3>
+        <br />
+ <p align="center"><strong>Javascript, SCSS, API</strong></p>
+        <a target="_blank" href="https://coffee-sub.vercel.app/">
+            <img src="iptracker.jpg" width="100%" alt="ip tracker"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Abrosss/IP-TRACKER" target="_blank">
+ GITHUB
+  </a>  
+  <a href="https://cool-ip-domain-tracker.netlify.app/" target="_blank">
+  LIVE
+  </a>
+      </p>
+        <p align="center">Track IP addresses or domains and view results on the map</p>
+    </td>
+     <td width="50%" valign="top">
+      <h3 align="center">Country Database</h3>
+        <br />
+ <p align="center"><strong>Javascript, SCSS, API</strong></p>
+        <a target="_blank" href="https://magic-url-shortener.netlify.app/">
+            <img src="countrydatabase.jpg" width="100%" alt="country database"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Abrosss/FLAGS-API" target="_blank">
+ GITHUB
+  </a>  
+  <a href="https://findacountrynowapi.netlify.app/" target="_blank">
+  LIVE
+  </a>
+      </p>
+        <p align="center">This app lets you learn about the countries of the world</p>
+    </td>
+  </tr>
+
+</table>
+
 - 👨‍💻 Some of my frontend projects are available at [nessi.dev](https://nessi.dev)
 
 
