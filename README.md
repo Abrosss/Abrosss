@@ -15,7 +15,7 @@
         <br />
  <p align="center"><strong>Javascript, SCSS, Node.js & Express.js</strong></p>
         <a target="_blank" href="https://coffee-sub.vercel.app/">
-            <img src="coffee400.jpg" width="100%" alt="coffee app"/>
+            <img src="coffee.jpg" width="100%" alt="coffee app"/>
         </a>
         <br />
         <p align="center">
@@ -34,7 +34,7 @@
         <br />
  <p align="center"><strong>Javascript, SCSS, API</strong></p>
         <a target="_blank" href="https://magic-url-shortener.netlify.app/">
-            <img src="url400.jpg" width="100%" alt="url-shortener"/>
+            <img src="url.jpg" width="100%" alt="url-shortener"/>
         </a>
         <br />
         <p align="center">
@@ -55,7 +55,7 @@
         <br />
  <p align="center"><strong>Javascript, SCSS, API</strong></p>
         <a target="_blank" href="https://coffee-sub.vercel.app/">
-            <img src="iptracker400.jpg" width="100%" alt="ip tracker"/>
+            <img src="iptracker.jpg" width="100%" alt="ip tracker"/>
         </a>
         <br />
         <p align="center">
@@ -74,7 +74,7 @@
         <br />
  <p align="center"><strong>Javascript, SCSS, API</strong></p>
         <a target="_blank" href="https://magic-url-shortener.netlify.app/">
-            <img src="countrydatabase400.jpg" width="100%" alt="country database"/>
+            <img src="countrydatabase.jpg" width="100%" alt="country database"/>
         </a>
         <br />
         <p align="center">
