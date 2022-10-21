@@ -54,7 +54,7 @@
       <h3 align="center">IP Address Tracker</h3>
         <br />
  <p align="center"><strong>Javascript, SCSS, API</strong></p>
-        <a target="_blank" href="https://coffee-sub.vercel.app/">
+        <a target="_blank" href="https://cool-ip-domain-tracker.netlify.app/">
             <img src="iptracker.jpg" width="100%" alt="ip tracker"/>
         </a>
         <br />
@@ -73,7 +73,7 @@
       <h3 align="center">Country Database</h3>
         <br />
  <p align="center"><strong>Javascript, SCSS, API</strong></p>
-        <a target="_blank" href="https://magic-url-shortener.netlify.app/">
+        <a target="_blank" href="https://findacountrynowapi.netlify.app/">
             <img src="countrydatabase.jpg" width="100%" alt="country database"/>
         </a>
         <br />
