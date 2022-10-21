@@ -54,7 +54,7 @@
       <h3 align="center">IP Address Tracker</h3>
         <br />
  <p align="center"><strong>Javascript, SCSS, API</strong></p>
-        <a target="_blank" href="https://cool-ip-domain-tracker.netlify.app/">
+        <a target="_blank" href="https://ip-or-domain-tracker.netlify.app/">
             <img src="iptracker.jpg" width="100%" alt="ip tracker"/>
         </a>
         <br />
@@ -63,7 +63,7 @@
   <a href="https://github.com/Abrosss/IP-TRACKER" target="_blank">
  GITHUB
   </a>  
-  <a href="https://cool-ip-domain-tracker.netlify.app/" target="_blank">
+  <a href="https://ip-or-domain-tracker.netlify.app/" target="_blank">
   LIVE
   </a>
       </p>
