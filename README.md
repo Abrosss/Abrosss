@@ -13,7 +13,7 @@ Hi! I'm happy to connect and collaborate! I have worked on projects that involve
       <h3 align="center">Scoot</h3>
         <br />
  <p align="center"><strong>React & Node.js</strong></p>
-        <a target="_blank" href="https://coffee-sub.vercel.app/">
+        <a target="_blank" href="https://getscootin.netlify.app">
             <img src="scoot.png" width="100%" alt="scoot app"/>
         </a>
         <br />
