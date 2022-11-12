@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Natalia</h1>
 <h3 align="center">A full stack web developer</h3>
-
-- 🌱 I’m currently learning **React**
+Hi! I'm happy to connect and collaborate! I have worked on projects that involve building user interfaces, integrating and developing API and databases. I specialize in JavaScript, React, Node.js and am trying to learn new things every day!
 
 
 <h3 align="left">Languages and Tools:</h3>
