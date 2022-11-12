@@ -11,24 +11,24 @@
   
   <tr>
   <td width="50%" valign="top">
-      <h3 align="center">Coffee Subscription Website</h3>
+      <h3 align="center">Scoot</h3>
         <br />
- <p align="center"><strong>Javascript, SCSS, Node.js & Express.js</strong></p>
+ <p align="center"><strong>React & Node.js</strong></p>
         <a target="_blank" href="https://coffee-sub.vercel.app/">
-            <img src="coffee.jpg" width="100%" alt="coffee app"/>
+            <img src="scoot.png" width="100%" alt="scoot app"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Abrosss/coffee-shop" target="_blank">
+  <a href="https://github.com/Abrosss/scootin" target="_blank">
  GITHUB
   </a>  
           <br/>
-  <a href="http://coffee-sub.vercel.app/" target="_blank">
+  <a href="https://getscootin.netlify.app" target="_blank">
   LIVE
   </a>
       </p>
-        <p align="center">Build a subscription plan that best fits your needs. Customize your order frequency, quantity, even your roast style and grind type.</p>
+        <p align="center">A multi-page full-stack web application for managing scoot rides. Create an account. Use the app to find the nearest scooter to you. Rent a ride and review your previous rides in the profile. Change the profile settings.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Coffee Subscription Website</h3>
