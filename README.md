@@ -22,6 +22,6 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
    </p>
 
+<!-- 
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrosss&show_icons=true&locale=en&layout=compact" alt="abrosss" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrosss&show_icons=true&locale=en&layout=compact" alt="abrosss" /></p> -->
